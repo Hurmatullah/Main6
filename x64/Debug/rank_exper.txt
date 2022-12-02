@@ -1,0 +1,8 @@
+(Threads=8): Rank=10 Number of iteratons=100000 Time=1.07319
+(Threads=8): Rank=25 Number of iteratons=100000 Time=1.21179
+(Threads=8): Rank=40 Number of iteratons=100000 Time=1.52382
+(Threads=8): Rank=55 Number of iteratons=100000 Time=1.86234
+(Threads=8): Rank=70 Number of iteratons=100000 Time=2.3594
+(Threads=8): Rank=85 Number of iteratons=100000 Time=3.00089
+(Threads=8): Rank=100 Number of iteratons=100000 Time=3.78521
+(Threads=8): Rank=115 Number of iteratons=100000 Time=5.108

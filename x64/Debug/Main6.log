@@ -1,0 +1,6 @@
+﻿  calculate_eigenvalues.cpp
+C:\Users\horma\source\repos\Main6\calculate_eigenvalues.cpp(21,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\horma\source\repos\Main6\calculate_eigenvalues.cpp(39,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Main6.cpp
+  Generating Code...
+  Main6.vcxproj -> C:\Users\horma\source\repos\Main6\x64\Debug\Main6.exe
